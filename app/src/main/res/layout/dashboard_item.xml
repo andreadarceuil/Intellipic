@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="8dp"
+    android:layout_marginBottom="50dp"
+    app:cardElevation="5dp">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <ImageView
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:id="@+id/imageIV"
+            android:scaleType="centerCrop"
+            android:importantForAccessibility="no"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/titleTV"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="@color/lightGrayColor"
+            android:layout_toRightOf="@id/imageIV"
+            android:layout_toEndOf="@id/imageIV"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/descriptionTV"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/lightGrayColor"
+            android:layout_toRightOf="@id/imageIV"
+            android:layout_toEndOf="@id/imageIV"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_below="@id/titleTV"/>
+    </RelativeLayout>
+</LinearLayout>
+</com.google.android.material.card.MaterialCardView>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865737378332",
+    "project_id": "intelipic",
+    "storage_bucket": "intelipic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865737378332:android:f5c94b760ec3aec0f4add9",
+        "android_client_info": {
+          "package_name": "com.example.mediafilter2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865737378332-k5rha1ctfkl3q8c5kdqh5pa12vk7sr1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8RzLGgib0oWzMEZGrRtWpdAIwfNdE73A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865737378332-k5rha1ctfkl3q8c5kdqh5pa12vk7sr1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

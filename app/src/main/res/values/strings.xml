@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Intellipic</string>
+    <string name="text_recognition_string">Text Recognition</string>
+    <string name="camera_description">camera take image</string>
+    <string name="text_view_text_recognition">recognized text</string>
+    <string name="image_text_recognition_desc">image text recognition description</string>
+    <string name="gallery_description">gallery image</string>
+    <string name="title_activity_image_labeling">ImageLabeling</string>
+    <string name="banner">IntelliPic</string>
+    <string name="bannerDescription">Extracting intelligence from pictures</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="confirm">Confirm Password?</string>
+    <string name="register">Register</string>
+
+    <string name="signin">Sign In</string>
+    <string name="registerbutton">REGISTER USER</string>
+    <string name="login">LOGIN</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="item1Title">Text Recognition</string>
+    <string name="item1Description">Decode text in Images</string>
+    <string name="item2Title">Image Gallery Filter</string>
+    <string name="item2Description">Find images that contain text that you specify</string>
+    <string name="item3Title">Barcode Scanner</string>
+    <string name="item3Description">Extract Information from Barcodes</string>
+    <string name="item4Title">Face Detection</string>
+    <string name="item4Description">Analyze Images for face recognition</string>
+</resources>
